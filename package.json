@@ -1,4 +1,11 @@
 {
+  "overrides": {
+    "lucide-react": {
+      "react": "^19.2.3"
+    }
+  }
+}
+{
   "name": "github-analytics-dashboard",
   "version": "0.1.0",
   "private": true,
